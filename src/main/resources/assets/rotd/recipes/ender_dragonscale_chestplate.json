@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rotd:ender_dragonscales"
+    }
+  },
+  "result": {
+    "item": "rotd:ender_dragonscale_chestplate"
+  }
+}
+

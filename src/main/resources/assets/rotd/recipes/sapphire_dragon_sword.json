@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "rotd:sapphire_dragonscales"
+    }
+  },
+  "result": {
+    "item": "rotd:sapphire_dragon_sword"
+  }
+}
+

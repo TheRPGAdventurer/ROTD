@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "rotd:ruby_dragonscales"
+    }
+  },
+  "result": {
+    "item": "rotd:ruby_dragon_pickaxe"
+  }
+}
+

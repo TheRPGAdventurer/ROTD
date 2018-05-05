@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "rotd:jade_dragonscales"
+    }
+  },
+  "result": {
+    "item": "rotd:jade_dragon_shovel"
+  }
+}
+

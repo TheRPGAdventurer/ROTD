@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X #",
+    " X ",
+    "# X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "rotd:dragonarmor_gold"
+  }
+}
+

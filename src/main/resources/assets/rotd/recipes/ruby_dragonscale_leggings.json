@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "rotd:ruby_dragonscales"
+    }
+  },
+  "result": {
+    "item": "rotd:ruby_dragonscale_leggings"
+  }
+}
+
